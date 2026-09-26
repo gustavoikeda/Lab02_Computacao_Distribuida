@@ -1,3 +1,8 @@
+/* Alunos
+Gustavo Kiyoshi Ikeda RA: 10439179
+Pedro Montarroyos de Pinho RA: 10440213
+Guilherme Limeira de Souza RA: 10439777
+*/
 #include <stdio.h>
 #include <string.h>
 #include <sys/socket.h>
