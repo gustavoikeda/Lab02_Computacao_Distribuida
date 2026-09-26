@@ -27,7 +27,7 @@
 /* ============================================================
  * Constantes do jogo
  * ============================================================ */
-#define PORTA_PADRAO    7070
+#define PORTA_PADRAO    9000
 #define MAX_JOGADORES   2
 #define TOTAL_RODADAS   5
 #define TEMPO_LIMITE    10      /* segundos por rodada */
